@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\Database.mdf
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\Database_log.ldf
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\DatabaseHost.exe.config
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\DatabaseHost.exe
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\DatabaseHost.pdb
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\ClientServer.dll
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\ClientServer.pdb
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\bin\Debug\ClientServer.dll.config
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\obj\Debug\DatabaseHost.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\obj\Debug\DatabaseHost.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\obj\Debug\DatabaseHost.csproj.CopyComplete
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\obj\Debug\DatabaseHost.exe
+C:\Users\User\Desktop\Maple\ClientServer\DatabaseHost\obj\Debug\DatabaseHost.pdb

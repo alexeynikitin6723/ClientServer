@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\bin\Debug\ClientDatabase.exe.config
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\bin\Debug\ClientDatabase.exe
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\bin\Debug\ClientDatabase.pdb
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.Form1.resources
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.Properties.Resources.resources
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.exe
+C:\Users\User\Desktop\Maple\ClientServer\ClientDatabase\obj\Debug\ClientDatabase.pdb
